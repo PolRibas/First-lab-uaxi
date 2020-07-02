@@ -1,5 +1,5 @@
 const main = () => {
-    console.log('uaxi works')
+    console.log('uaxi have git')
 }
 
 window.addEventListener('load', main)
